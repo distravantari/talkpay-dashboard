@@ -1,0 +1,8 @@
+body { margin: 0; background: #1F1F1F;}
+
+#page-loading {
+  background: #A55;
+  width: 500px;
+  height: 5px;
+  opacity: 0;
+}
