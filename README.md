@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Black Dashboard](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Black%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard%2Fexamples%2Fdashboard.html&via=CreativeTim)
 
 
@@ -157,3 +158,6 @@ Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
 
+=======
+# talkpay-dashboard
+>>>>>>> 1e91944a703076e0485e6a87b92f30091fe2c8de
